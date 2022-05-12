@@ -8,4 +8,4 @@ For this task, you need to follow the steps mentioned on this link :  https://su
 
 After you create your app password for your Gmail account you will get a key.
 
-Copy that key and paste in the code below where written "s.login("Your Gmail Account", "You app password")" and in "Your Gmail Account" write your gmail account for which you have created app password for sending Emails for OTP verification.
+Copy that key and paste in the code below where written "s.login("Your Gmail Account", "Your app password")" and in "Your Gmail Account" write your gmail account for which you have created app password for sending Emails for OTP verification.
